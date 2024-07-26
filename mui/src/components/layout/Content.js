@@ -8,9 +8,44 @@ export default function Content() {
                 width: '100%',
                 flexGrow: 1,
                 padding: 2,
-                marginTop: '9vh'
+                marginTop: '7vh'
             }}
             >
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
+            <Typography variant="body1">This is the content area.</Typography>
         </Box>
     );
 }
